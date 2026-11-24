@@ -1,44 +1,36 @@
-IyBPcGVuIFNhYmVyIFBsdXMgUFM0IDAxLjE5IGJldGEKCioqQmV0YToqKiBu
-ZXdlc3QgcHJlc2VydmVkIGJ1aWxkLCBob3N0LWNoZWNrZWQgYnV0ICoqbm90
-IHlldCBjb25maXJtZWQgb24gUFM0L1BTVlIqKi4KRG8gbm90IGluc3RhbGwg
-b3ZlciB0aGUgMDEuMTQgYnVpbGQgdW5sZXNzIHlvdSBjYW4gcmVzdG9yZSBp
-dDsgMDEuMTQgaXMgdGhlIGxhc3QKdXNlci1hY2NlcHRlZCA1MOKAkzYwIEZQ
-UyBiYXNlbGluZS4KCjAxLjE5IHJlbW92ZXMgZW5naW5lL3NjZW5lIHNwbGFz
-aCBhcnR3b3JrIGFuZCBsb2FkcyBpbnRlcm5hbCBTeXN0ZW1TZXJ2aWNlIHRv
-CmNhbGwgYHNjZVN5c3RlbVNlcnZpY2VIaWRlU3BsYXNoU2NyZWVuKClgIG9u
-Y2UgYWZ0ZXIgdGhlIGZpcnN0IHJ1bm5pbmcgZnJhbWUsCm1hdGNoaW5nIHRo
-ZSBTREsgc2FtcGxlLiBBIHN0cmljdCBob3N0IGZpeHR1cmUgY29tcGlsZXMg
-dGhlIGFjdHVhbCBPUyBsb29wIGFuZApjaGVja3Mgb3JkZXJpbmcsIG9uZS1z
-aG90IGJlaGF2aW9yLCBlYXJseSBleGl0IGFuZCBmYWlsdXJlIGxvZ2dpbmcu
-IEl0IGRvZXMgbm90CnByb3ZlIHRoZSByZWFsIFBTNCBzeXNjYWxsIHN1Y2Nl
-ZWRzLiBTdGFydHVwIHNob3VsZCBiZSBibGFjaywgdGhlbiB0aGUgZ2FtZTsK
-Y2FwdHVyZSBmcmVzaCBgb3BlbnNhYmVyLXBsdXMubG9nYCBhbmQgbmF0aXZl
-IGxvZ3MgaWYgaXQgcmVtYWlucyBibGFjay4KCkZlYXR1cmVzIHJldGFpbmVk
-IGZyb20gZWFybGllciBidWlsZHM6IG5hdGl2ZSAxMTUyw5cxMjk2IFBTVlIg
-c3RlcmVvLCAxOTIww5cxMDgwClRWIG91dHB1dCwgUFMgTW92ZSwgYWNjb3Vu
-dC1pc29sYXRlZCBzZXR0aW5ncy9zY29yZXMsIHNoYXJlZCBzb25ncywgcmV0
-YWluZWQKbGFzdCBwb3NlcyBvbiB0cmFja2luZyBsb3NzLCBib3VuZGVkIGNo
-YXJ0IGluc3RhbGxhdGlvbiBhbmQgc3RyaWN0IHY0IHBhcnNpbmcuCgojIyBB
-cnRpZmFjdAoKLSBgT3Blbi1TYWJlci1QbHVzLTAxLjE5LnBrZ2AKLSAqKjk1
-LDc0OCwwOTYgYnl0ZXMqKgotIFNIQS0yNTYgYDg2YzU2NzgzN2I0MGU4NTli
-NGNmNzExMjI0Mzk3YmNhOTc0NGRkMDVkYjc1ODdiZDQ5OGQzYjE4NGZhYjkw
-NGRgCi0gVGl0bGUgSUQgYE9TQUIwMDAwMWA6IHRoaXMgcmVwbGFjZXMgT3Bl
-biBTYWJlciBQbHVzLCBub3QgdGhlIEdET1QwMDAwMSBsb2FkZXIuCgpIb3N0
-IGNoZWNrcyBwYXNzZWQ6IG5hdGl2ZSByZWJ1aWxkLCBzcGxhc2gtbG9vcCBV
-QlNhbiBmaXh0dXJlLCBkaXJlY3Qvc3RhZ2VkIFBDSwpib290LCBwcm9maWxl
-L21hcCBndWFyZHMsIHJlYWwgNTE3YWQgT2dnLzMyIGxvYWRzLCBwYWNrYWdl
-IGVudHJpZXMvaGFzaGVzIGFuZApzaWduYXR1cmVzLiBBY3R1YWwgSE1EIHZp
-c3VhbHMsIHJlYWwgRlBTLCBvY2NsdXNpb24sIGZ1bGwgc29uZ3MsIHJlc3Rh
-cnQvZXhpdCBhbmQKYXBwIGJlaGF2aW9yIG9uIFBTNCBzdGlsbCBuZWVkIGNv
-bmZpcm1hdGlvbi4gVGhlIHVuY2hhbmdlZCAwMS4xNSBiYWNrZW5kIGJhc2Vs
-aW5lCmlzIG5vdCByZWxhYmVsZWQgYXMgYSBuZXcgMDEuMTkgc3Vic3lzdGVt
-IHN1aXRlLgoKVGhlIGFyY2hpdmUgY29udGFpbnMgdGhlIGFkYXB0ZWQgZ2Ft
-ZSBhbmQgUFM0IHBsYXRmb3JtIHBhdGNoZXMvcmV2aXNpb25zLiBJdCBkb2Vz
-Cm5vdCBjb250YWluIGEgZnVsbCBHb2RvdC9NZXNhL09wZW5PcmJpcyBlbmdp
-bmUgY2hlY2tvdXQ7IGZvbGxvdyBpdHMgcmV2aXNpb24gYW5kCnBhdGNoIG5v
-dGVzIHdpdGggdGhlIHNlcGFyYXRlbHkgcHJlcGFyZWQgbG9jYWwgdG9vbGNo
-YWluLiBMaWNlbnNlcyBhbmQgY3JlZGl0cwpyZW1haW4gd2l0aCB0aGVpciBz
-b3VyY2VzOyB0aGUgZ2FtZSBjb2RlIGlzIE1JVCBhbmQgdGhlIG5hdGl2ZSBw
-bGF0Zm9ybSBwYXRjaGVzCmhhdmUgc2VwYXJhdGUgdXBzdHJlYW0gdGVybXMu
-IE5vIG9mZmljaWFsIGdhbWUgYXNzZXRzIG9yIGRvd25sb2FkZWQgbWFwcyBh
-cmUKaW5jbHVkZWQuCg==
+# Open Saber Plus PS4 01.19 beta
+
+**Beta:** newest preserved build, host-checked but **not yet confirmed on PS4/PSVR**.
+Do not install over the 01.14 build unless you can restore it; 01.14 is the last
+user-accepted 50–60 FPS baseline.
+
+01.19 removes engine/scene splash artwork and loads internal SystemService to
+call `sceSystemServiceHideSplashScreen()` once after the first running frame,
+matching the SDK sample. A strict host fixture compiles the actual OS loop and
+checks ordering, one-shot behavior, early exit and failure logging. It does not
+prove the real PS4 syscall succeeds. Startup should be black, then the game;
+capture fresh `opensaber-plus.log` and native logs if it remains black.
+
+Features retained from earlier builds: native 1152×1296 PSVR stereo, 1920×1080
+TV output, PS Move, account-isolated settings/scores, shared songs, retained
+last poses on tracking loss, bounded chart installation and strict v4 parsing.
+
+## Artifact
+
+- `Open-Saber-Plus-01.19.pkg`
+- **95,748,096 bytes**
+- SHA-256 `86c567837b40e859b4cf711224397bca9744dd05db7587bd498d3b184fab904d`
+- Title ID `OSAB00001`: this replaces Open Saber Plus, not the GDOT00001 loader.
+
+Host checks passed: native rebuild, splash-loop UBSan fixture, direct/staged PCK
+boot, profile/map guards, real 517ad Ogg/32 loads, package entries/hashes and
+signatures. Actual HMD visuals, real FPS, occlusion, full songs, restart/exit and
+app behavior on PS4 still need confirmation. The unchanged 01.15 backend baseline
+is not relabeled as a new 01.19 subsystem suite.
+
+The archive contains the adapted game and PS4 platform patches/revisions. It does
+not contain a full Godot/Mesa/OpenOrbis engine checkout; follow its revision and
+patch notes with the separately prepared local toolchain. Licenses and credits
+remain with their sources; the game code is MIT and the native platform patches
+have separate upstream terms. No official game assets or downloaded maps are
+included.

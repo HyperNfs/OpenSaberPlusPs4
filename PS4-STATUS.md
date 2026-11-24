@@ -1,63 +1,53 @@
-IyBPcGVuIFNhYmVyIFBsdXMgUFM0IHN0YXR1cwoKVGhpcyBmb3JrIGNvbnRh
-aW5zIHRoZSBQUzQtYWRhcHRlZCBnYW1lIHNvdXJjZSBmb3IKW2BhcnBydXNz
-L09wZW5TYWJlclBsdXNgXShodHRwczovL2dpdGh1Yi5jb20vYXJwcnVzcy9P
-cGVuU2FiZXJQbHVzKSwgYnJhbmNoCmBnb2RvdC00LXBvcnRgLCByZXZpc2lv
-biBgOGM1Mjk1Y2RhYWRmMDJlYTc0MThiMGM2Y2JlYTIwMjQwYmE5MTNhZmAK
-KHVwc3RyZWFtIDAuNy42NykuIFRoZSB3b3JraW5nIG5hdGl2ZSBWUiBlbmdp
-bmUgcmVtYWlucyBHb2RvdCA0LjM7IHRoaXMgaXMgYSBnYW1lCmFkYXB0YXRp
-b24sIG5vdCBhIEdvZG90IDQuNiBlbmdpbmUgcG9ydC4KCiMjIEN1cnJlbnQg
-YnVpbGQKClsqKjAxLjE5IGJldGEqKl0oaHR0cHM6Ly9naXRodWIuY29tL0h5
-cGVyTmZzL09wZW5TYWJlclBsdXNQczQvcmVsZWFzZXMvdGFnL29wZW5zYWJl
-ci1wbHVzLXBzNC12MDEuMTkpCmlzIHRoZSBuZXdlc3QgcHJlc2VydmVkIGJ1
-aWxkLiBJdCBhZGRzIG5hdGl2ZSBQUzQgc3lzdGVtLXNwbGFzaCBkaXNtaXNz
-YWwgYWZ0ZXIKdGhlIGZpcnN0IHJ1bm5pbmcgZnJhbWUgYW5kIHJlbW92ZXMg
-ZW5naW5lL3NjZW5lIHNwbGFzaCBhcnR3b3JrLiBIb3N0IHRlc3RzIGNoZWNr
-CnRoZSBjYWxsIG9yZGVyLCBvbmUtc2hvdCBiZWhhdmlvciBhbmQgZmFpbHVy
-ZSBsb2dnaW5nIGFnYWluc3Qgc3R1YnM7ICoqcmVhbCBQUzQKYW5kIFBTVlIg
-Y29uZmlybWF0aW9uIGlzIHN0aWxsIHBlbmRpbmcqKi4gSWYgaXQgc3RheXMg
-YmxhY2ssIGNhcHR1cmUgZnJlc2gKYG9wZW5zYWJlci1wbHVzLmxvZ2AgYW5k
-IG5hdGl2ZSBsb2dzIHJhdGhlciB0aGFuIGFzc3VtaW5nIHRoZSBmaXggd29y
-a2VkLgoKLSBQYWNrYWdlOiBgT3Blbi1TYWJlci1QbHVzLTAxLjE5LnBrZ2AK
-LSBTaXplOiAqKjk1LDc0OCwwOTYgYnl0ZXMqKgotIFNIQS0yNTY6IGA4NmM1
-Njc4MzdiNDBlODU5YjRjZjcxMTIyNDM5N2JjYTk3NDRkZDA1ZGI3NTg3YmQ0
-OThkM2IxODRmYWI5MDRkYAotIFByZXZpb3VzIHVzZXItYWNjZXB0ZWQgcm9s
-bGJhY2s6ICoqMDEuMTQqKiAocmVwb3J0ZWQgNTDigJM2MCBGUFMpLgoKVGhl
-IHJlbGVhc2UgaW5jbHVkZXMgdGhlIHVuY2hhbmdlZCBwYWNrYWdlLCBjaGVj
-a3N1bXMsIG5vdGVzLCBob3N0IHRlc3QgbG9ncyBhbmQKYSBzb3VyY2UgYXJj
-aGl2ZSB3aXRoIHRoZSBQUzQgcGxhdGZvcm0gcGF0Y2hlcy4gVGhlIGZ1bGwg
-ZW5naW5lIGJhc2Ugc291cmNlIGlzCm5vdCBpbmNsdWRlZCBiZWNhdXNlIG9m
-IGl0cyBzaXplOyByZXZpc2lvbi9wYXRjaCBtZXRhZGF0YSBhbmQgcmVjb25z
-dHJ1Y3Rpb24KaW5zdHJ1Y3Rpb25zIGFyZSBpbmNsdWRlZC4gU2VlIHRoZSBy
-ZWxlYXNlIG5vdGVzIGJlZm9yZSBpbnN0YWxsaW5nLiBUaGlzIGlzIGEKaG9t
-ZWJyZXcgUFM0IHRpdGxlIHdpdGggUFNWUjEvUFMgTW92ZSBzdXBwb3J04oCU
-bm90IGFuIG9mZmljaWFsIFNvbnkgb3IgQmVhdCBTYWJlcgpwcm9kdWN0LCBh
-bmQgbm8gb2ZmaWNpYWwgZ2FtZSBhc3NldHMgYXJlIHJlZGlzdHJpYnV0ZWQu
-CgojIyBXaGF0IHdvcmtzIGluIHByZXNlcnZlZCBidWlsZHMKCi0gTmF0aXZl
-IFBTVlIgc3RlcmVvIGFuZCBQUyBNb3ZlIGlucHV0LCB3aXRoIDE5MjDDlzEw
-ODAgVFYgb3V0cHV0LgotIFBTNCBhY2NvdW50LWlzb2xhdGVkIHNldHRpbmdz
-L3Njb3Jlcywgc2hhcmVkIHNvbmdzLCBwYXVzZS9yZWNlbnRlciBjb250cm9s
-cywKICBib3VuZGVkIG1hcCBpbnN0YWxsYXRpb24gYW5kIHN0cmljdCBjb25z
-dGFudC1CUE0gdjQgY2hhcnQgaGFuZGxpbmcuCi0gMDEuMTUgaW5jcmVhc2Vk
-IHBlci1leWUgcmVzb2x1dGlvbiB0byAxMTUyw5cxMjk2OyBhY3R1YWwgaGFy
-ZHdhcmUgRlBTIHdhcyBub3QKICBtZWFzdXJlZC4gMDEuMTQgaXMgdGhlIGxh
-c3QgdXNlci1jb25maXJtZWQgcGVyZm9ybWFuY2UgYmFzZWxpbmUuCi0gMDEu
-MTkgaG9zdCBjaGVja3M6IG5hdGl2ZSByZWJ1aWxkLCBhY3R1YWwgT1MtbG9v
-cCBmaXh0dXJlLCBleHBvcnRlZC1QQ0sKICBkaXJlY3Qvc3RhZ2VkIGJvb3Qs
-IHByb2ZpbGUvbWFwIGd1YXJkcywgNTE3YWQgT2dnLzMyLWxvYWQgdmFsaWRh
-dGlvbiBhbmQKICBwYWNrYWdlIGhhc2hlcy9zaWduYXR1cmVzLiBIb3N0IGNo
-ZWNrcyBhcmUgbm90IGNvbnNvbGUgYWNjZXB0YW5jZS4KCiMjIEtub3duIGxp
-bWl0cwoKLSBSZWFsIGhlYWRzZXQvVFYgb3V0cHV0LCBzcGxhc2ggZGlzbWlz
-c2FsLCBjb2xvcnMsIHRyYWNraW5nIGFsaWdubWVudCwgZnVsbC1zb25nCiAg
-cGxheWJhY2ssIHJlc3RhcnQvZXhpdCBhbmQgYWN0dWFsIEZQUyByZXF1aXJl
-IFBTNC9ITUQgdGVzdGluZyBmb3IgMDEuMTkuCi0gVmFyaWFibGUgdGltaW5n
-LCByb3RhdGlvbi9OSlMgY2hhbmdlcyBhbmQgbW9kIGNoYXJ0cyByZW1haW4g
-dW5zdXBwb3J0ZWQuCi0gTmF0aXZlIE1vdmUgcnVtYmxlIGlzIG5vdCBpbXBs
-ZW1lbnRlZC4KLSBBIGRvd25sb2FkZWQgcHVibGljIG1hcCBpcyBleGNsdWRl
-ZCBmcm9tIHNvdXJjZSBhbmQgcGFja2FnZXM7IHN1cHBseSB5b3VyIG93bgog
-IFpJUCB0byByZXBlYXQgdGhlIGZpeHR1cmUuCi0gVGhlIHBhY2thZ2VyIHJl
-cXVpcmVzIGEgc2VwYXJhdGVseSBwcmVwYXJlZCBHb2RvdCA0LjMgUFM0IGVu
-Z2luZSB0cmVlLiBUaGUKICBhcmNoaXZlIGNvbnRhaW5zIHBhdGNoZXMvcmV2
-aXNpb25zIGJ1dCBjYW5ub3QgcmVjb25zdHJ1Y3QgaXQgYXV0b21hdGljYWxs
-eS4KClNlZSBgUkVBRE1FLm1kYCwgYFBST0dSRVNTX1NVTU1BUlkubWRgLCBg
-Z2FtZS9SRUFETUUubWRgIGFuZCBgcG9ydC9SRUFETUUubWRgIGZvcgp0aGUg
-ZnVsbCBoaXN0b3J5IGFuZCBsb2NhbCBidWlsZCBpbnN0cnVjdGlvbnMuCg==
+# Open Saber Plus PS4 status
+
+This fork contains the PS4-adapted game source for
+[`arpruss/OpenSaberPlus`](https://github.com/arpruss/OpenSaberPlus), branch
+`godot-4-port`, revision `8c5295cdaadf02ea7418b0c6cbea20240ba913af`
+(upstream 0.7.67). The working native VR engine remains Godot 4.3; this is a game
+adaptation, not a Godot 4.6 engine port.
+
+## Current build
+
+[**01.19 beta**](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19)
+is the newest preserved build. It adds native PS4 system-splash dismissal after
+the first running frame and removes engine/scene splash artwork. Host tests check
+the call order, one-shot behavior and failure logging against stubs; **real PS4
+and PSVR confirmation is still pending**. If it stays black, capture fresh
+`opensaber-plus.log` and native logs rather than assuming the fix worked.
+
+- Package: `Open-Saber-Plus-01.19.pkg`
+- Size: **95,748,096 bytes**
+- SHA-256: `86c567837b40e859b4cf711224397bca9744dd05db7587bd498d3b184fab904d`
+- Previous user-accepted rollback: **01.14** (reported 50–60 FPS).
+
+The release includes the unchanged package, checksums, notes, host test logs and
+a source archive with the PS4 platform patches. The full engine base source is
+not included because of its size; revision/patch metadata and reconstruction
+instructions are included. See the release notes before installing. This is a
+homebrew PS4 title with PSVR1/PS Move support—not an official Sony or Beat Saber
+product, and no official game assets are redistributed.
+
+## What works in preserved builds
+
+- Native PSVR stereo and PS Move input, with 1920×1080 TV output.
+- PS4 account-isolated settings/scores, shared songs, pause/recenter controls,
+  bounded map installation and strict constant-BPM v4 chart handling.
+- 01.15 increased per-eye resolution to 1152×1296; actual hardware FPS was not
+  measured. 01.14 is the last user-confirmed performance baseline.
+- 01.19 host checks: native rebuild, actual OS-loop fixture, exported-PCK
+  direct/staged boot, profile/map guards, 517ad Ogg/32-load validation and
+  package hashes/signatures. Host checks are not console acceptance.
+
+## Known limits
+
+- Real headset/TV output, splash dismissal, colors, tracking alignment, full-song
+  playback, restart/exit and actual FPS require PS4/HMD testing for 01.19.
+- Variable timing, rotation/NJS changes and mod charts remain unsupported.
+- Native Move rumble is not implemented.
+- A downloaded public map is excluded from source and packages; supply your own
+  ZIP to repeat the fixture.
+- The packager requires a separately prepared Godot 4.3 PS4 engine tree. The
+  archive contains patches/revisions but cannot reconstruct it automatically.
+
+See `README.md`, `PROGRESS_SUMMARY.md`, `game/README.md` and `port/README.md` for
+the full history and local build instructions.
