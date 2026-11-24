@@ -6,26 +6,37 @@ This fork contains the PS4-adapted game source for
 (upstream 0.7.67). The working native VR engine remains Godot 4.3; this is a game
 adaptation, not a Godot 4.6 engine port.
 
-## Current build
+## Builds
 
-[**01.19 beta**](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19)
-is the newest preserved build. It adds native PS4 system-splash dismissal after
-the first running frame and removes engine/scene splash artwork. Host tests check
-the call order, one-shot behavior and failure logging against stubs; **real PS4
-and PSVR confirmation is still pending**. If it stays black, capture fresh
-`opensaber-plus.log` and native logs rather than assuming the fix worked.
+| Build | Status |
+|---|---|
+| [**01.19 beta**](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19) | Newest preserved build. Adds native PS4 system-splash dismissal and removes engine/scene splash artwork. Host-tested against stubs; **real PS4 and PSVR confirmation is still pending.** |
+| [**01.14 confirmed**](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.14) | **Latest build confirmed on PS4 by the user**: “works very well at 50–60 FPS.” Use this as the known-good build until 01.19 passes a real HMD check. |
+| 01.16 / 01.17 | Ran and reached VR, but retained the system splash and were not accepted. |
 
-- Package: `Open-Saber-Plus-01.19.pkg`
+The 01.19 host checks cover call order, one-shot behavior and failure logging for
+splash dismissal against stubs. They do **not** prove the real PS4 syscall or usable
+headset output. If the game stays black, capture fresh `opensaber-plus.log` and
+native logs instead of assuming the fix worked.
+
+### 01.19 package
+
+- `Open-Saber-Plus-01.19.pkg`
 - Size: **95,748,096 bytes**
 - SHA-256: `86c567837b40e859b4cf711224397bca9744dd05db7587bd498d3b184fab904d`
-- Previous user-accepted rollback: **01.14** (reported 50–60 FPS).
 
-The release includes the unchanged package, checksums, notes, host test logs and
-a source archive with the PS4 platform patches. The full engine base source is
-not included because of its size; revision/patch metadata and reconstruction
-instructions are included. See the release notes before installing. This is a
-homebrew PS4 title with PSVR1/PS Move support—not an official Sony or Beat Saber
-product, and no official game assets are redistributed.
+### 01.14 package
+
+- `Open-Saber-Plus-01.14.pkg`
+- Size: **94,765,056 bytes**
+- SHA-256: `8e7966acfd9a676fd5d3ba0c11a3f74da3c8a36574ee81e470c86783fcbd3785`
+- Title ID `OSAB00001` replaces Open Saber Plus, not the GDOT00001 loader.
+
+01.14’s confirmation concerned performance and normal gameplay. Its splash/VR
+visual state was not separately documented in the preserved evidence, so do not
+claim that 01.14 is splash-free. See the
+[01.14 release notes](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.14)
+for the exact original artifacts.
 
 ## What works in preserved builds
 
