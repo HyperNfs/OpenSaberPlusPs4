@@ -1,0 +1,7 @@
+{
+  "url": "https://github.com/arpruss/OpenSaberPlus",
+  "branch": "godot-4-port",
+  "revision": "8c5295cdaadf02ea7418b0c6cbea20240ba913af",
+  "version": "0.7.67",
+  "ps4_engine": "Godot 4.3; native binary unchanged from OpenSaber 01.12"
+}
