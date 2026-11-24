@@ -3,16 +3,17 @@
   <h1>OpenSaberPlus for PS4</h1>
   <p><strong>PSVR1 + PS Move rhythm homebrew, built on OpenSaberPlus and a patched Godot 4.3 PS4 engine.</strong></p>
   <p>
-    <a href="https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19"><img src="https://img.shields.io/badge/release-01.19%20beta-yellow?style=for-the-badge" alt="01.19 beta"></a>
-    <a href="PS4-STATUS.md"><img src="https://img.shields.io/badge/PS4-check%20pending-orange?style=for-the-badge" alt="PS4 check pending"></a>
+    <a href="https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.14"><img src="https://img.shields.io/badge/latest%20confirmed-01.14-brightgreen?style=for-the-badge" alt="Latest confirmed: 01.14"></a>
+    <a href="https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19"><img src="https://img.shields.io/badge/newest%20candidate-01.19%20beta-yellow?style=for-the-badge" alt="Newest candidate: 01.19 beta"></a>
+    <a href="PS4-STATUS.md"><img src="https://img.shields.io/badge/01.19%20PSVR-check%20pending-orange?style=for-the-badge" alt="01.19 PSVR check pending"></a>
     <a href="game/LICENSE"><img src="https://img.shields.io/badge/game%20license-MIT-blue?style=for-the-badge" alt="MIT game source"></a>
   </p>
 </div>
 
 > [!NOTE]
-> **01.19 is host-checked, not console-confirmed.** The native splash dismissal and
-> black startup were verified against stubs and exported-PCK fixtures; real PS4/PSVR
-> output is still pending. **01.14** remains the last user-accepted build (50–60 FPS).
+> **01.14 is the latest version confirmed on PS4**: the user reported it “works
+> very well at 50–60 FPS.” **01.19 is newer but only host-checked**; its native
+> splash dismissal still needs real PS4/PSVR confirmation.
 
 ## At a glance
 
@@ -20,25 +21,37 @@
 |---|---|
 | Upstream | [`arpruss/OpenSaberPlus`](https://github.com/arpruss/OpenSaberPlus) @ `8c5295cdaadf02ea7418b0c6cbea20240ba913af` (0.7.67) |
 | Engine | Patched Godot 4.3 PS4 port — **not** a Godot 4.6 port |
-| Current beta | [01.19 release](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19) |
-| Known-good rollback | 01.14 (user-reported 50–60 FPS) |
+| Latest confirmed | [01.14 release](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.14) — user-reported 50–60 FPS |
+| Newest candidate | [01.19 beta](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19) — PSVR check pending |
 | Input | PS Move + Options / headset, native PSVR1 stereo |
 | Title ID | `OSAB00001` (replaces Open Saber Plus, not the `GDOT00001` loader) |
 
-## Get the build
+## Downloads
+
+### Confirmed: 01.14
+
+Download **`Open-Saber-Plus-01.14.pkg`** from the
+[01.14 release](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.14)
+and verify it before installing:
+
+```sh
+sha256sum Open-Saber-Plus-01.14.pkg
+# 8e7966acfd9a676fd5d3ba0c11a3f74da3c8a36574ee81e470c86783fcbd3785
+```
+
+### Newest candidate: 01.19 beta
 
 Download **`Open-Saber-Plus-01.19.pkg`** from the
-[01.19 beta release](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19)
-and verify it before installing:
+[01.19 beta release](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19):
 
 ```sh
 sha256sum Open-Saber-Plus-01.19.pkg
 # 86c567837b40e859b4cf711224397bca9744dd05db7587bd498d3b184fab904d
 ```
 
-Close the game fully, install, and relaunch. Loading should be black, then the game.
-If it stays black, capture fresh `opensaber-plus.log` and native logs—removing the
-pictures alone does not prove the 3D path works.
+01.19 adds native system-splash dismissal but is **not yet console-confirmed**.
+Startup should be black, then the game. If it stays black, capture fresh
+`opensaber-plus.log` and native logs. 01.16/01.17 ran but kept the splash.
 
 See [PS4-STATUS.md](PS4-STATUS.md) for the full measured scope and limits,
 [PROGRESS_SUMMARY.md](PROGRESS_SUMMARY.md) for version history, and
@@ -62,13 +75,13 @@ See [PS4-STATUS.md](PS4-STATUS.md) for the full measured scope and limits,
 game/             PS4-adapted Godot project from upstream (credits in game/LICENSE)
 port/             Packager, artwork prep and host fixtures
 native-reference/ PS4 shell metadata used by the packager
-PS4-STATUS.md     What is measured, pending and explicitly unsupported
+PS4-STATUS.md     What is measured, confirmed, pending and explicitly unsupported
 PROGRESS_SUMMARY.md  Version-by-version build history
 ```
 
 Building requires a separately prepared Godot 4.3 PS4 toolchain and SDK outside
-this repository. The [release source archive](https://github.com/HyperNfs/OpenSaberPlusPs4/releases/tag/opensaber-plus-ps4-v01.19)
-contains adaptations, patches and revision metadata; it does not auto-rebuild the
+this repository. The [release source archives](https://github.com/HyperNfs/OpenSaberPlusPs4/releases)
+contain adaptations, patches and revision metadata; they do not auto-rebuild the
 engine.
 
 ## Credits & license
